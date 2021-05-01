@@ -27,4 +27,3 @@ enviarEmail("Oi, seja bem vindo ao Guia","victor@udemy", (status,amount,time,nam
         TUDO,OK!
     `)
         
-})
